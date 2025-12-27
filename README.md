@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=Mradul%20Sharma&fontSize=40&fontColor=ffffff" />
