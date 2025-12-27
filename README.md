@@ -1,12 +1,13 @@
+<!-- markdownlint-disable MD033 -->
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=Mradul%20Sharma&fontSize=40&fontColor=ffffff"
   alt="Mradul Sharma Banner" />
 </p>
 
-<h3 align="center">
-Software Architect | Technical Lead | Full-Stack Engineer
-</h3>
+<h6 align="center">
+Software Architect | Technical Lead | Full-Stack Engineer | Laravel | React | AWS | Node.js | Symfony | CodeIgniter | jQuery | Tailwind CSS | Bootstrap | PrimeVue | Ant Design | Chart.js | D3.js | MySQL | PostgreSQL | BigQuery | Redis | MariaDB | EC2 | S3 | RDS | Lambda | IAM | CloudFront | Route 53 | Docker | GitHub Actions CI/CD | Linux Server Hardening (Ubuntu/CentOS)
+</h6>
 
 <p align="center">
 Buidling high-concurrency SaaS platforms, FinTech solutions, and
@@ -15,6 +16,7 @@ enterprise PropTech systems with Laravel, React, and AWS.
 
 <p align="center">
   <a href="https://mradulsharma.vercel.app">Live Portfolio</a> •
+  <a href="https://github.com/ermradulsharma">GitHub</a> •
   <a href="https://linkedin.com/in/mradulsharma">LinkedIn</a> •
   <a href="https://www.upwork.com/freelancers/~01e91f0a0ab6d99a4d">Upwork</a>
 </p>
@@ -23,16 +25,24 @@ enterprise PropTech systems with Laravel, React, and AWS.
 
 ## 👋 About Me
 
-I am a **Software Architect** and **Technical Lead** with **5+ years of
-experience** specializing in architecting scalable, secure, and performant
+I am a **Software Architect**, **Full Stack Developer**, **SaaS Solutions Expert**,
+**Technical Lead**, **React.js Developer**, **Cloud Architect**, **Laravel Specialist**,
+**API Design Expert**, **FinTech Specialist**, **Node.js Developer**, **PropTech Innovator**,
+**Backend Engineer**, **Next.js Developer**, **Scalability Expert**, **Digital Strategist**,
+**Database Architect**, **Performance Expert**, **Product Engineer**, **Systems Integrator**,
+**UI/UX Engineer**, **PHP Expert**, **Tech Consultant**, **E-commerce Expert**, **OSS Contributor**,
+**DevOps Enthusiast** and **Technical Lead** with **5+ years of experience** specializing in architecting scalable, secure, and performant
 web ecosystems. My expertise lies at the intersection of robust backend
-engineering (**Laravel, Node.js**) and interactive frontend experiences
-(**React, Next.js**), all hardened on **AWS** infrastructure.
+engineering (**Laravel, Node.js, Symfony, CodeIgniter**) and interactive frontend experiences
+(**React, Next.js, Vue.js, jQuery**), all hardened on **AWS** infrastructure.
 
-I focus on transforming complex business requirements into elegant,
-maintainable code. Whether it's building a multi-tenant property management
-platform or a real-time marketing analytics engine, I prioritize data
-integrity, system scalability, and exceptional user experience.
+I provide end-to-end development solutions tailored to the evolving needs of
+modern businesses. My approach combines technical precision with strategic
+planning, ensuring each system is optimized for speed, stability, and
+long-term maintainability. Whether building multi-tenant SaaS platforms or
+real-time financial engines, I prioritize data integrity, system scalability,
+and exceptional user experience. Every project is crafted to align with
+strategic goals and deliver measurable business value.
 
 ---
 
@@ -41,8 +51,10 @@ integrity, system scalability, and exceptional user experience.
 **Strategic Backend**
 
 - **Frameworks**: Laravel (SaaS Expert), Node.js (Express), Symfony, CodeIgniter
-- **Architecture**: Microservices, RESTful APIs, WebSockets, Real-time Event Handling
-- **Engines**: Payment Gateways (Stripe, Razorpay, PayPal), Subscription Billing (Cashier)
+- **Architecture**: Microservices, RESTful APIs, WebSockets,
+  Real-time Event Handling
+- **Engines**: Payment Gateways (Stripe, Razorpay, PayPal),
+  Subscription Billing (Cashier)
 
 **Advanced Frontend**
 
