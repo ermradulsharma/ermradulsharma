@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mradulsharma.vercel.app">Live Portfolio</a> •
+  <a href="https://mradulsharma.vercel.app">Portfolio</a> •
   <a href="https://github.com/ermradulsharma">GitHub</a> •
   <a href="https://linkedin.com/in/mradulsharma">LinkedIn</a> •
   <a href="https://www.upwork.com/freelancers/~01e91f0a0ab6d99a4d">Upwork</a>
@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-I am a **Software Architect** and **SaaS Solutions Expert** with **5+ years of
+I am a **Software Architect** and **SaaS Solutions Expert** with **6+ years of
 experience** specializing in architecting scalable, secure, and performant
 web ecosystems. My expertise lies at the intersection of robust backend
 engineering (**Laravel, Node.js, Symfony, CodeIgniter**) and interactive
