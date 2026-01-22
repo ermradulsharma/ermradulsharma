@@ -150,7 +150,7 @@ long-term maintainability.
 ## Github Profile Summary Card
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermradulsharma&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermradulsharma&theme=default"/>
 </p>
 ---
 
