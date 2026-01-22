@@ -142,11 +142,16 @@ long-term maintainability.
 ## 📊 GitHub Insights
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ermradulsharma&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" /><br> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ermradulsharma&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" /><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ermradulsharma&theme=default&hide_border=true" alt="Streak Stats" /><br>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermradulsharma&theme=default&hide_border=true&layout=compact" alt="Top Langs" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermradulsharma&theme=default&hide_border=true&layout=compact" alt="Top Langs" />
 </p>
 
+## Github Profile Summary Card
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermradulsharma&theme=vue"/>
+</p>
 ---
 
 ### ✍️ Random Dev Quote
