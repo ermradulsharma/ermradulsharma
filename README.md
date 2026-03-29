@@ -41,6 +41,19 @@ At **Skywalker Labs**, we fundamentally reject mediocre, temporary solutions. Ou
 
 ## 💎 Featured Masterpieces: A Deep Dive
 
+### 🏔️ PahadiGo Enterprise Platform (Marketplace / B2B2C)
+*Advanced Next.js 16 & Node.js Travel Infrastructure for high-altitude experiential marketplaces.*
+- **Core Engineering**: Service-Oriented Architecture (SOA) with strict decoupling of HTTP ingress and domain logic. Implements **Polymorphic Mongoose Discriminators** for heterogeneous inventory management.
+- **AI Integration**: Serverless OCR pipelines utilizing `Tesseract.js` for automated AI KYC validation (Aadhar/PAN verification).
+- **Key Features**: Atomic financial ledger mutations, distributed booking locks to prevent double-booking, and passwordless JWT orchestration via MSG91.
+- **Stack**: `Next.js 16.x`, `React 19`, `MongoDB Atlas`, `Tailwind CSS 4`, `Razorpay`, `Cloudinary`.
+
+### 🪐 Skywalker Labs R&D (AI / Intelligence)
+*High-performance intelligence portal orchestrating the future of digital automation.*
+- **Core Engineering**: Advanced Next.js architecture with AI-driven content federation and headless API integration.
+- **Key Features**: Real-time R&D tracking, Automated engineering workflows, AI-assisted code optimization.
+- **Stack**: `Next.js`, `TypeScript`, `OpenAI SDK`, `Vercel`, `Tailwind CSS`.
+
 ### 💰 PayStubx Ecosystem (FinTech / SaaS)
 *Architected an enterprise-level payroll engine serving 10K+ users with high-throughput document generation.*
 - **Core Engineering**: Distributed event-driven architecture handling complex US/UK tax algorithms.
@@ -52,6 +65,12 @@ At **Skywalker Labs**, we fundamentally reject mediocre, temporary solutions. Ou
 - **Core Engineering**: API-first infrastructure with sub-millisecond response times via edge caching.
 - **Key Features**: Secure pilot registries, Stripe-integrated payments, real-time geofencing.
 - **Stack**: `Next.js`, `Laravel`, `PostgreSQL`, `Stripe-API`.
+
+### 🔒 Laraguard Security (Open Source / 2FA)
+*Robust Multi-Factor Authentication engine for enterprise-level application security.*
+- **Core Engineering**: Multi-protocol 2FA engine (TOTP/HOTP) with optimized encryption layers for Laravel.
+- **Key Features**: Hardware security key support, backup codes management, zero-config auth integration.
+- **Stack**: `PHP`, `Laravel`, `Encryption SDK`, `2FA Protocols`.
 
 ### 📈 WealthMark Engine (Crypto / Trading)
 *Low-latency cryptocurrency trading platform with real-time data streaming.*
@@ -76,7 +95,7 @@ At **Skywalker Labs**, we fundamentally reject mediocre, temporary solutions. Ou
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 🗄️ Databases & Storage
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -136,12 +155,12 @@ I maintain a robust ecosystem of **47 specialized repositories**, from enterpris
 
 | Project Name | Stack | Repository Link |
 | :--- | :--- | :--- |
+| **PahadiGo Enterprise** | B2B2C Marketplace | [Repo](https://github.com/ermradulsharma/travels) |
 | **Skywalker Labs R&D** | Next.js / AI | [Repo](https://github.com/ermradulsharma/skywalker-labs) |
 | **Matrix Store** | MERN Stack | [Repo](https://github.com/ermradulsharma/matrix-store) |
 | **Droning Co. Frontend** | Next.js / Stripe | [Repo](https://github.com/ermradulsharma/the-droning-company-frontend) |
 | **Grambahar** | Full Stack React | [Repo](https://github.com/ermradulsharma/grambahar) |
 | **Social Media Hub** | Next.js / Realtime | [Repo](https://github.com/ermradulsharma/social) |
-| **Travel Booking UI** | React / API | [Repo](https://github.com/ermradulsharma/travels) |
 
 </details>
 
