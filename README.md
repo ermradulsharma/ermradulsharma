@@ -1,172 +1,181 @@
 <!-- markdownlint-disable MD033 -->
-<!-- Profile Banner -->
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=150&section=header&text=Mradul%20Sharma&fontSize=40&fontColor=ffffff"
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&desc=Software%20Architect%20•%20Technical%20Lead%20•%20SaaS%20Solutions&descSize=18&descAlign=50&animation=fadeIn"
   alt="Mradul Sharma Banner" />
 </p>
 
-<h3 align="center">
-  Software Architect • Technical Lead • Full-Stack Engineer • SaaS Expert
-</h3>
-
 <p align="center">
-  Building high-concurrency SaaS platforms, FinTech solutions, and<br>
-  enterprise PropTech systems with Laravel, React, and AWS.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=28E7FF&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Ecosystems;Building+High-Concurrency+Backends;Full-Stack+Engineering+at+Scale;SaaS+Architecture+%26+Cloud+Native" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://mradulsharma.vercel.app">Portfolio</a> •
-  <a href="https://github.com/ermradulsharma">GitHub</a> •
-  <a href="https://linkedin.com/in/mradulsharma">LinkedIn</a> •
-  <a href="https://www.upwork.com/freelancers/~01e91f0a0ab6d99a4d">Upwork</a>
+  <a href="https://mradulsharma.vercel.app"><b>Portfolio</b></a> •
+  <a href="https://linkedin.com/in/mradulsharma"><b>LinkedIn</b></a> •
+  <a href="https://www.upwork.com/freelancers/~01e91f0a0ab6d99a4d"><b>Upwork</b></a> •
+  <a href="mailto:mradulsharma786@gmail.com"><b>Contact</b></a>
 </p>
 
 ---
 
-## 👋 About Me
+## 🏛️ Professional Overview
 
-I am a **Software Architect** and **SaaS Solutions Expert** with **6+ years of
-experience** specializing in architecting scalable, secure, and performant
-web ecosystems. My expertise lies at the intersection of robust backend
-engineering (**Laravel, Node.js, Symfony, CodeIgniter**) and interactive
-frontend experiences (**React, Next.js, Vue.js, jQuery**), all hardened on
-**AWS** infrastructure.
+I am a **Software Architect** with **6+ years of specialized experience** in engineering high-performance SaaS platforms and FinTech solutions. My expertise lies in architecting resilient backends (Laravel, Node.js) and interactive frontend experiences (React, Next.js), all hardened on **AWS Cloud** infrastructure.
 
-I provide end-to-end development solutions tailored to the evolving needs of
-modern businesses. My approach combines technical precision with strategic
-planning, ensuring each system is optimized for speed, stability, and
-long-term maintainability.
+I lead the technical vision at **Skywalker Intelligence System**, focusing on building systems that bridge the gap between machine precision and human-centric design.
 
 ---
 
-## 🏆 Key Career Achievements
+## 🏗️ Skywalker Labs Philosophy
 
-- **Strategic Leadership**: Led architecture and development of **PayStubx**
-  Payroll System (10K+ active users).
-- **Product Engineering**: Built **Storytellers CMS** - a headless content
-  management platform with custom API.
-- **FinTech Innovation**: Architected **Wealth Mark** Cryptocurrency Trading
-  Platform with real-time market data.
-- **Performance Mastery**: Reduced application load times by **50%** through
-  code optimization and caching strategies.
-- **Technical Mentorship**: Mentored **5+ junior developers**, improving team
-  velocity and code quality.
-- **Quality Assurance**: Implemented automated testing suites, achieving
-  **85%+** code coverage across projects.
+> **"Software is not a utility; it is the central nervous system of modern architecture."**
 
-## 🌐 Socials & Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/mradulsharma">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/ermradulsharma">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://gitlab.com/mradulsharma">
-  <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-</a>
-<a href="https://www.upwork.com/freelancers/~01e91f0a0ab6d99a4d">
-  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
-</a>
-<a href="https://x.com/er_mradulsharma">
-  <img src="https://img.shields.io/badge/X-%23000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-</a>
-<a href="https://www.instagram.com/rudra_sharma_">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://www.facebook.com/mradulsharma0">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://stackoverflow.com/users/8425184/mradul-sharma">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-%23F48024.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
-</a>
-<a href="https://dev.to/mradul_sharma">
-  <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-</a>
-<a href="https://medium.com/@ermradulsharma">
-  <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a>
-<a href="https://substack.com/@ermradulsharma">
-  <img src="https://img.shields.io/badge/Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
-</a>
-<a href="https://www.youtube.com/@ermradulsharma">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://hackerrank.com/profile/mradulsharma">
-  <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-<a href="https://leetcode.com/u/ermradulsharma/">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://t.me/ermradulsharma">
-  <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="mailto:mradulsharma786@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p>
+At **Skywalker Labs**, we fundamentally reject mediocre, temporary solutions. Our mandate is to architect **Digital Sovereignty** through:
+- **Systemic Elegance**: Constructing invisible behemoths (Backends) that power high-demand applications.
+- **Cognitive Resonance**: Designing adaptive, instantaneous Frontend experiences that feel organic.
+- **Unbreakable Infrastructure**: Adhering to IaC and Immutable Deployments for self-healing environments.
 
 ---
 
-<!-- markdownlint-disable MD013 -->
+## 💎 Featured Masterpieces: A Deep Dive
+
+### 💰 PayStubx Ecosystem (FinTech / SaaS)
+*Architected an enterprise-level payroll engine serving 10K+ users with high-throughput document generation.*
+- **Core Engineering**: Distributed event-driven architecture handling complex US/UK tax algorithms.
+- **Key Features**: Real-time W-2 generation, multi-region compliance, secure escrow handling.
+- **Stack**: `Laravel`, `Livewire`, `Redis`, `AWS S3`, `PDF-Engine`.
+
+### 🛰️ The Droning Company (Marketplace)
+*Global Registry and Marketplace for High-Performance Drone Pilots.*
+- **Core Engineering**: API-first infrastructure with sub-millisecond response times via edge caching.
+- **Key Features**: Secure pilot registries, Stripe-integrated payments, real-time geofencing.
+- **Stack**: `Next.js`, `Laravel`, `PostgreSQL`, `Stripe-API`.
+
+### 📈 WealthMark Engine (Crypto / Trading)
+*Low-latency cryptocurrency trading platform with real-time data streaming.*
+- **Core Engineering**: Utilized **WebSockets** and **Redis Pub/Sub** for atomic transaction handling.
+- **Key Features**: Sub-second market data streaming, 2FA hardware integration, secure escrow.
+- **Stack**: `Laravel`, `Passport`, `Redis`, `WebSockets`.
+
+### 🛒 Matrix Store (E-Commerce)
+*Modern MERN architecture with an advanced 5-tier Role-Based Access Control system.*
+- **Core Engineering**: Decoupled high-throughput REST API with granular permission logic.
+- **Key Features**: Real-time analytical reporting via Recharts, Automated inventory sharding.
+- **Stack**: `MongoDB`, `Express.js`, `React`, `Node.js`, `JWT`.
+
+---
 
 ## 🧰 Technical Arsenal
 
 ### 💻 Languages & Core
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%230175C2.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
-
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### ☁️ Cloud & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 🗄️ Databases & Storage
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### 🛠️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-B7772D?style=for-the-badge&logo=Composer&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F90064?style=for-the-badge&logo=pnpm&logoColor=white) ![Pip](https://img.shields.io/badge/Pip-2793E6?style=for-the-badge&logo=pip&logoColor=white) ![Bundler](https://img.shields.io/badge/Bundler-FF6D3F?style=for-the-badge&logo=Bundler&logoColor=white) ![Cargo](https://img.shields.io/badge/Cargo-B7410E?style=for-the-badge&logo=Cargo&logoColor=white) ![Homebrew](https://img.shields.io/badge/Homebrew-161618?style=for-the-badge&logo=Homebrew&logoColor=white) ![NuGet](https://img.shields.io/badge/NuGet-5502B8?style=for-the-badge&logo=NuGet&logoColor=white) ![Pipenv](https://img.shields.io/badge/Pipenv-096736?style=for-the-badge&logo=Pipenv&logoColor=white) ![Poetry](https://img.shields.io/badge/Poetry-096736?style=for-the-badge&logo=Poetry&logoColor=white) ![Rake](https://img.shields.io/badge/Rake-CC0000?style=for-the-badge&logo=Rake&logoColor=white) ![SBT](https://img.shields.io/badge/SBT-B31B1B?style=for-the-badge&logo=SBT&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-B7772D?style=for-the-badge&logo=Composer&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 
 ### 🔌 APIs & Integrations
-
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-## 📊 GitHub Insights
+---
+
+## 📂 Master Repository Index (Skywalker Ecosystem)
+
+I maintain a robust ecosystem of **47 specialized repositories**, from enterprise SaaS products to high-performance SDKs and open-source packages.
+
+<details open>
+<summary><b>🚀 Skywalker Labs - Open Source Infrastructure (20+ Repos)</b></summary>
+
+| Package Name | Category | Repository Link |
+| :--- | :--- | :--- |
+| **Laraguard** | Security & 2FA | [Repo](https://github.com/skywalker-labs/Laraguard) |
+| **Laravel Livewire Tables** | Core UI Engine | [Repo](https://github.com/skywalker-labs/laravel-livewire-tables) |
+| **Skywalker AI SDK** | Artificial Intelligence | [Repo](https://github.com/skywalker-labs/ai) |
+| **Toolkit SDK** | Dev Productivity | [Repo](https://github.com/skywalker-labs/toolkit) |
+| **Prism Component Library** | Frontend SDK | [Repo](https://github.com/skywalker-labs/prism) |
+| **Footprints** | Analytics & Tracking | [Repo](https://github.com/skywalker-labs/footprints) |
+| **Impersonate** | Auth Middleware | [Repo](https://github.com/skywalker-labs/impersonate) |
+| **Log Viewer** | Debugging Suite | [Repo](https://github.com/skywalker-labs/log-viewer) |
+| **Constant Time Encoding** | Security/Crypto | [Repo](https://github.com/skywalker-labs/constant-time-encoding) |
+| **Formcraft** | Dynamic Form Engine | [Repo](https://github.com/skywalker-labs/formcraft) |
+| **OpenGraph Generator** | SEO Intelligence | [Repo](https://github.com/skywalker-labs/opengraph) |
+| **QR Code Generator** | Utility SDK | [Repo](https://github.com/skywalker-labs/qr-code) |
+| **Auth Passwordless** | Modern Auth | [Repo](https://github.com/skywalker-labs/passwordless) |
+| **Location Engine** | Geolocation SDK | [Repo](https://github.com/skywalker-labs/location) |
+
+</details>
+
+<details>
+<summary><b>🛠️ High-Performance Laravel & PHP mastery (16+ Projects)</b></summary>
+
+| Project Name | Domain | Repository Link |
+| :--- | :--- | :--- |
+| **PayStubx Website** | Payroll SaaS | [Repo](https://github.com/ermradulsharma/paystubx-website) |
+| **WealthMark Engine** | FinTech/Crypto | [Repo](https://github.com/ermradulsharma/wealthMark) |
+| **Droning Co. Backend** | Marketplace | [Repo](https://github.com/ermradulsharma/the-droning-company-backend) |
+| **Backlink Monitor** | SEO Tooling | [Repo](https://github.com/ermradulsharma/backlink_monitor) |
+| **Institution Management** | EdTech | [Repo](https://github.com/ermradulsharma/institution) |
+| **Clew Pouches** | E-Commerce | [Repo](https://github.com/ermradulsharma/clew-pouches) |
+| **Goklean Service** | On-Demand SaaS | [Repo](https://github.com/ermradulsharma/goklean) |
+| **Timely Scheduler** | Productivity | [Repo](https://github.com/ermradulsharma/timely) |
+
+</details>
+
+<details>
+<summary><b>⚛️ Interactive Frontend Labs (Next.js/React/MERN)</b></summary>
+
+| Project Name | Stack | Repository Link |
+| :--- | :--- | :--- |
+| **Skywalker Labs R&D** | Next.js / AI | [Repo](https://github.com/ermradulsharma/skywalker-labs) |
+| **Matrix Store** | MERN Stack | [Repo](https://github.com/ermradulsharma/matrix-store) |
+| **Droning Co. Frontend** | Next.js / Stripe | [Repo](https://github.com/ermradulsharma/the-droning-company-frontend) |
+| **Grambahar** | Full Stack React | [Repo](https://github.com/ermradulsharma/grambahar) |
+| **Social Media Hub** | Next.js / Realtime | [Repo](https://github.com/ermradulsharma/social) |
+| **Travel Booking UI** | React / API | [Repo](https://github.com/ermradulsharma/travels) |
+
+</details>
+
+---
+
+## 📊 Analytics & Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ermradulsharma&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <!-- <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=ermradulsharma&theme=default&hide_border=true" alt="Streak Stats" /><br> -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermradulsharma&theme=default&hide_border=true&layout=compact" alt="Top Langs" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ermradulsharma&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermradulsharma&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
 </p>
 
-## Github Profile Summary Card
+---
+
+## 🌐 Connected Presence
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermradulsharma&theme=default"/>
-</p>
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-</p>
-
-## 💰 Support & Footprint
-
-<p align="center">
-<a href="https://buymeacoffee.com/mradulsharma">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
+<a href="https://linkedin.com/in/mradulsharma">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=ermradulsharma&color=blue" alt="Visit Count" />
-
+<a href="https://github.com/ermradulsharma">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01e91f0a0ab6d99a4d">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
+</a>
+<a href="https://stackoverflow.com/users/8425184/mradul-sharma">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-%23F48024.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
+</a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- markdownlint-enable MD033 -->
+<p align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ermradulsharma&color=blue" alt="Visit Count" />
+  <br>
+  <sub>© 2026 Mradul Sharma. Software Architect | SaaS Expert.</sub>
+</p>
