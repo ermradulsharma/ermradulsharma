@@ -1,8 +1,10 @@
+# Mradul Sharma
+
 <!-- markdownlint-disable MD033 -->
 <!-- Profile Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&desc=Software%20Architect%20•%20Technical%20Lead%20•%20SaaS%20Solutions&descSize=18&descAlign=50&descAlignV=60&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&desc=Software%20Architect%20•%20Technical%20Lead%20•%20SaaS%20Solutions&descSize=18&descAlign=100&descAlignV=80&animation=fadeIn"
   alt="Mradul Sharma Banner" />
 </p>
 
