@@ -15,10 +15,18 @@
 </p>
 
 <p align="center">
-  <a href="https://mradulsharma.vercel.app"><b>Portfolio</b></a> •
-  <a href="https://linkedin.com/in/mradulsharma"><b>LinkedIn</b></a> •
-  <a href="https://www.upwork.com/freelancers/~01e91f0a0ab6d99a4d"><b>Upwork</b></a> •
-  <a href="mailto:mradulsharma786@gmail.com"><b>Contact</b></a>
+  <a href="https://mradulsharma.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%20%20%20%20%20%20%20%20-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" width="170" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/mradulsharma">
+    <img src="https://img.shields.io/badge/LinkedIn-%20%20%20%20%20%20%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="170" alt="LinkedIn" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01e91f0a0ab6d99a4d">
+    <img src="https://img.shields.io/badge/Upwork-%20%20%20%20%20%20%20%20%20-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" height="40" width="170" alt="Upwork" />
+  </a>
+  <a href="mailto:mradulsharma786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%20%20%20%20%20%20%20%20%20%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" width="170" alt="Email" />
+  </a>
 </p>
 
 ---
