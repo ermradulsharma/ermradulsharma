@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&desc=Software%20Architect%20•%20Technical%20Lead%20•%20SaaS%20Solutions&descSize=18&descAlign=50&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&desc=Software%20Architect%20•%20Technical%20Lead%20•%20SaaS%20Solutions&descSize=18&descAlign=70&animation=fadeIn"
   alt="Mradul Sharma Banner" />
 </p>
 
@@ -84,6 +84,12 @@ At **Skywalker Labs**, we fundamentally reject mediocre, temporary solutions. Ou
 - **Key Features**: Real-time analytical reporting via Recharts, Automated inventory sharding.
 - **Stack**: `MongoDB`, `Express.js`, `React`, `Node.js`, `JWT`.
 
+### 🔍 Backlink Monitor (SEO Tooling)
+*Scalable SEO surveillance engine for real-time backlink verification and health monitoring.*
+- **Core Engineering**: Distributed crawler architecture for high-concurrency link validation and meta-data extraction.
+- **Key Features**: Automated link breakage alerts, competitor analysis suite, SEO impact reporting.
+- **Stack**: `Laravel`, `Guzzle HTTP`, `MySQL`, `Redis`, `Task-Scheduler`.
+
 ---
 
 ## 🧰 Technical Arsenal
@@ -155,7 +161,7 @@ I maintain a robust ecosystem of **47 specialized repositories**, from enterpris
 
 | Project Name | Stack | Repository Link |
 | :--- | :--- | :--- |
-| **PahadiGo Enterprise** | B2B2C Marketplace | [Repo](https://github.com/ermradulsharma/travels) |
+| **PahadiGo Enterprise** | B2B2C Marketplace | [Repo](https://github.com/ermradulsharma/pahadigo) |
 | **Skywalker Labs R&D** | Next.js / AI | [Repo](https://github.com/ermradulsharma/skywalker-labs) |
 | **Matrix Store** | MERN Stack | [Repo](https://github.com/ermradulsharma/matrix-store) |
 | **Droning Co. Frontend** | Next.js / Stripe | [Repo](https://github.com/ermradulsharma/the-droning-company-frontend) |
