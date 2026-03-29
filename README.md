@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=28E7FF&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Ecosystems;Building+High-Concurrency+Backends;Full-Stack+Engineering+at+Scale;SaaS+Architecture+%26+Cloud+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=28E7FF&center=true&vCenter=true&width=800&lines=Architecting+Enterprise+SaaS+%26+Sovereign+Systems;Engineering+High-Availability+Distributed+Platforms;Crafting+Intelligent+AI-Driven+Digital+Solutions;Scaling+Unbreakable+Cloud-Native+Infrastructure;Building+High-Throughput+FinTech+Ecosystems;Bridging+Complex+Business+Needs+with+Engineering+Elegance;Software+Architect+%26+Full-Stack+Technical+Visionary" alt="Typing SVG" />
   </a>
 </p>
 
