@@ -201,8 +201,8 @@ I maintain a robust ecosystem of **47 specialized repositories**, from enterpris
 ## 📊 Analytics & Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ermradulsharma&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermradulsharma&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
+  <img width="48%" src="https://mradulsharma-readme.vercel.app/api?username=ermradulsharma&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img width="48%" src="https://mradulsharma-readme.vercel.app/api/top-langs/?username=ermradulsharma&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
 </p>
 
 ---
