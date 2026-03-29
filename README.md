@@ -1,7 +1,8 @@
 <!-- markdownlint-disable MD033 -->
 <!-- Profile Header -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&desc=Software%20Architect%20•%20Technical%20Lead%20•%20SaaS%20Solutions&descSize=18&descAlign=70&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&desc=Software%20Architect%20•%20Technical%20Lead%20•%20SaaS%20Solutions&descSize=18&descAlign=50&descAlignV=60&animation=fadeIn"
   alt="Mradul Sharma Banner" />
 </p>
 
@@ -33,6 +34,7 @@ I lead the technical vision at **Skywalker Intelligence System**, focusing on bu
 > **"Software is not a utility; it is the central nervous system of modern architecture."**
 
 At **Skywalker Labs**, we fundamentally reject mediocre, temporary solutions. Our mandate is to architect **Digital Sovereignty** through:
+
 - **Systemic Elegance**: Constructing invisible behemoths (Backends) that power high-demand applications.
 - **Cognitive Resonance**: Designing adaptive, instantaneous Frontend experiences that feel organic.
 - **Unbreakable Infrastructure**: Adhering to IaC and Immutable Deployments for self-healing environments.
@@ -42,50 +44,66 @@ At **Skywalker Labs**, we fundamentally reject mediocre, temporary solutions. Ou
 ## 💎 Featured Masterpieces: A Deep Dive
 
 ### 🏔️ PahadiGo Enterprise Platform (Marketplace / B2B2C)
+
 *Advanced Next.js 16 & Node.js Travel Infrastructure for high-altitude experiential marketplaces.*
+
 - **Core Engineering**: Service-Oriented Architecture (SOA) with strict decoupling of HTTP ingress and domain logic. Implements **Polymorphic Mongoose Discriminators** for heterogeneous inventory management.
 - **AI Integration**: Serverless OCR pipelines utilizing `Tesseract.js` for automated AI KYC validation (Aadhar/PAN verification).
 - **Key Features**: Atomic financial ledger mutations, distributed booking locks to prevent double-booking, and passwordless JWT orchestration via MSG91.
 - **Stack**: `Next.js 16.x`, `React 19`, `MongoDB Atlas`, `Tailwind CSS 4`, `Razorpay`, `Cloudinary`.
 
 ### 🪐 Skywalker Labs R&D (AI / Intelligence)
+
 *High-performance intelligence portal orchestrating the future of digital automation.*
+
 - **Core Engineering**: Advanced Next.js architecture with AI-driven content federation and headless API integration.
 - **Key Features**: Real-time R&D tracking, Automated engineering workflows, AI-assisted code optimization.
 - **Stack**: `Next.js`, `TypeScript`, `OpenAI SDK`, `Vercel`, `Tailwind CSS`.
 
 ### 💰 PayStubx Ecosystem (FinTech / SaaS)
+
 *Architected an enterprise-level payroll engine serving 10K+ users with high-throughput document generation.*
+
 - **Core Engineering**: Distributed event-driven architecture handling complex US/UK tax algorithms.
 - **Key Features**: Real-time W-2 generation, multi-region compliance, secure escrow handling.
 - **Stack**: `Laravel`, `Livewire`, `Redis`, `AWS S3`, `PDF-Engine`.
 
 ### 🛰️ The Droning Company (Marketplace)
+
 *Global Registry and Marketplace for High-Performance Drone Pilots.*
+
 - **Core Engineering**: API-first infrastructure with sub-millisecond response times via edge caching.
 - **Key Features**: Secure pilot registries, Stripe-integrated payments, real-time geofencing.
 - **Stack**: `Next.js`, `Laravel`, `PostgreSQL`, `Stripe-API`.
 
 ### 🔒 Laraguard Security (Open Source / 2FA)
+
 *Robust Multi-Factor Authentication engine for enterprise-level application security.*
+
 - **Core Engineering**: Multi-protocol 2FA engine (TOTP/HOTP) with optimized encryption layers for Laravel.
 - **Key Features**: Hardware security key support, backup codes management, zero-config auth integration.
 - **Stack**: `PHP`, `Laravel`, `Encryption SDK`, `2FA Protocols`.
 
 ### 📈 WealthMark Engine (Crypto / Trading)
+
 *Low-latency cryptocurrency trading platform with real-time data streaming.*
+
 - **Core Engineering**: Utilized **WebSockets** and **Redis Pub/Sub** for atomic transaction handling.
 - **Key Features**: Sub-second market data streaming, 2FA hardware integration, secure escrow.
 - **Stack**: `Laravel`, `Passport`, `Redis`, `WebSockets`.
 
 ### 🛒 Matrix Store (E-Commerce)
+
 *Modern MERN architecture with an advanced 5-tier Role-Based Access Control system.*
+
 - **Core Engineering**: Decoupled high-throughput REST API with granular permission logic.
 - **Key Features**: Real-time analytical reporting via Recharts, Automated inventory sharding.
 - **Stack**: `MongoDB`, `Express.js`, `React`, `Node.js`, `JWT`.
 
 ### 🔍 Backlink Monitor (SEO Tooling)
+
 *Scalable SEO surveillance engine for real-time backlink verification and health monitoring.*
+
 - **Core Engineering**: Distributed crawler architecture for high-concurrency link validation and meta-data extraction.
 - **Key Features**: Automated link breakage alerts, competitor analysis suite, SEO impact reporting.
 - **Stack**: `Laravel`, `Guzzle HTTP`, `MySQL`, `Redis`, `Task-Scheduler`.
@@ -95,21 +113,27 @@ At **Skywalker Labs**, we fundamentally reject mediocre, temporary solutions. Ou
 ## 🧰 Technical Arsenal
 
 ### 💻 Languages & Core
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%230175C2.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
+
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### ☁️ Cloud & Infrastructure
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 🗄️ Databases & Storage
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### 🛠️ Tools & DevOps
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-B7772D?style=for-the-badge&logo=Composer&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 
 ### 🔌 APIs & Integrations
+
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ---
