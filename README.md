@@ -200,24 +200,19 @@ I maintain a robust ecosystem of **47+ specialized repositories** across enterpr
 
 ## 📊 Analytics & Insights
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermradulsharma&theme=tokyonight" alt="GitHub Contribution Graph" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com/?user=ermradulsharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermradulsharma&theme=tokyonight" alt="Repos Per Language" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermradulsharma&theme=tokyonight" alt="Productive Time Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermradulsharma&theme=tokyonight" alt="GitHub Contribution Graph" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermradulsharma&theme=tokyonight" alt="Productive Time Graph" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ermradulsharma&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermradulsharma&theme=tokyonight" alt="Repos Per Language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ermradulsharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
