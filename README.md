@@ -1,12 +1,7 @@
 <p align="center">
-  <img width="25%" height="200px" src="ermradulsharma.jpg" alt="Er. Mradul Sharmas" style="height: 200px !important">
-  <img width="70%" height="200px" src="banner.svg" alt="Mradul Sharma Banner" style="height: 200px !important"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=28E7FF&center=true&vCenter=true&width=800&lines=Architecting+Enterprise+SaaS+%26+Sovereign+Systems;Engineering+High-Availability+Distributed+Platforms;Crafting+Intelligent+AI-Driven+Digital+Solutions;Scaling+Unbreakable+Cloud-Native+Infrastructure;Building+High-Throughput+FinTech+Ecosystems;Bridging+Complex+Business+Needs+with+Engineering+Elegance;Software+Architect+%26+Full-Stack+Technical+Visionary" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn"
+  alt="Mradul Sharma Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=28E7FF&center=true&vCenter=true&width=800&lines=Architecting+Enterprise+SaaS+%26+Sovereign+Systems;Engineering+High-Availability+Distributed+Platforms;Crafting+Intelligent+AI-Driven+Digital+Solutions;Scaling+Unbreakable+Cloud-Native+Infrastructure;Building+High-Throughput+FinTech+Ecosystems;Bridging+Complex+Business+Needs+with+Engineering+Elegance;Software+Architect+%26+Full-Stack+Technical+Visionary" alt="Typing SVG" />
 </p>
 
 <p align="center">
