@@ -1,6 +1,6 @@
 <p align="center">
   <img width="25%" height="200px" src="ermradulsharma.jpg" alt="Er. Mradul Sharmas" style="height: 200px !important">
-  <img width="70%" height="200px" src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn"
+  <img width="70%" height="200px" src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Senior%20Fullstack%20Developer%20%E2%80%A2%20Skywalker%20Labs%20(Laravel%20Package)%20%E2%80%A2%20From%202018%20-%2026&descSize=18&descAlignY=62"
   alt="Mradul Sharma Banner" style="height: 200px !important"/>
 </p>
 
