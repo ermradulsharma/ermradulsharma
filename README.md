@@ -1,8 +1,3 @@
-# Mradul Sharma
-
-<!-- markdownlint-disable MD033 -->
-<!-- Profile Header -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn"
   alt="Mradul Sharma Banner" />
@@ -28,6 +23,11 @@
 I am a **Software Architect** with **6+ years of specialized experience** in engineering high-performance SaaS platforms and FinTech solutions. My expertise lies in architecting resilient backends (Laravel, Node.js) and interactive frontend experiences (React, Next.js), all hardened on **AWS Cloud** infrastructure.
 
 I lead the technical vision at **Skywalker Intelligence System**, focusing on building systems that bridge the gap between machine precision and human-centric design.
+
+- 🔭 **Currently Building**: Skywalker Intelligence System & High-Altitude Enterprise Platforms
+- 👯 **Open to Collaborate**: High-Performance Open Source Laravel / Next.js Infrastructure & AI SDKs
+- 💬 **Ask Me About**: System Architecture, High-Availability Backends, Distributed Systems & FinTech
+- ⚡ **Engineering Mantra**: *"Build systems that scale gracefully and fail invisibly."*
 
 ---
 
@@ -132,17 +132,17 @@ At **Skywalker Labs**, we fundamentally reject mediocre, temporary solutions. Ou
 
 ### 🛠️ Tools & DevOps
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-B7772D?style=for-the-badge&logo=Composer&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-B7772D?style=for-the-badge&logo=Composer&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 
 ### 🔌 APIs & Integrations
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ---
 
 ## 📂 Master Repository Index (Skywalker Ecosystem)
 
-I maintain a robust ecosystem of **47 specialized repositories**, from enterprise SaaS products to high-performance SDKs and open-source packages.
+I maintain a robust ecosystem of **47+ specialized repositories** across enterprise SaaS products, high-performance SDKs, and open-source packages. *(Featured highlights listed below)*
 
 <details open>
 <summary><b>🚀 Skywalker Labs - Open Source Infrastructure (20+ Repos)</b></summary>
@@ -201,8 +201,12 @@ I maintain a robust ecosystem of **47 specialized repositories**, from enterpris
 ## 📊 Analytics & Insights
 
 <p align="center">
-  <img width="48%" src="https://mradulsharma-readme.vercel.app/api?username=ermradulsharma&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img width="48%" src="https://mradulsharma-readme.vercel.app/api/top-langs/?username=ermradulsharma&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ermradulsharma&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermradulsharma&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ermradulsharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
