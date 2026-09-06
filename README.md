@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn"
+  <img width="25%" src="ermradulsharma.jpg">
+  <img width="70%" src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mradul%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn"
   alt="Mradul Sharma Banner" />
 </p>
 
