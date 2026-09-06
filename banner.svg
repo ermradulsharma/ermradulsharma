@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 200" width="100%" height="200">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="700" height="200" rx="12" fill="url(#bg-grad)"/>
+  
+  <!-- Left Accent Stripe -->
+  <rect x="0" y="0" width="6" height="200" rx="3" fill="url(#accent-grad)"/>
+
+  <!-- Subtle Border -->
+  <rect x="0.5" y="0.5" width="699" height="199" rx="11" fill="none" stroke="#334155" stroke-width="1" />
+
+  <!-- Info Content (Values Only) -->
+  <g transform="translate(30, 0)">
+    <!-- Line 1: Name -->
+    <text x="0" y="45" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="800" fill="#ffffff">Mradul Sharma</text>
+
+    <!-- Line 2: Position -->
+    <text x="0" y="85" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="600" fill="#38bdf8">Senior Fullstack Developer</text>
+
+    <!-- Line 3: Open Source Contribution -->
+    <text x="0" y="125" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500" fill="#cbd5e1">Skywalker Labs (Laravel Package)</text>
+
+    <!-- Line 4: Timeline -->
+    <text x="0" y="160" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" fill="#94a3b8">2018 - 26</text>
+  </g>
+</svg>
