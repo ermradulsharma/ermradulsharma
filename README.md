@@ -201,8 +201,12 @@ I maintain a robust ecosystem of **47+ specialized repositories** across enterpr
 ## 📊 Analytics & Insights
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ermradulsharma&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermradulsharma&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermradulsharma&theme=tokyonight" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermradulsharma&theme=tokyonight" alt="Repos Per Language" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermradulsharma&theme=tokyonight" alt="Productive Time Graph" />
 </p>
 
 <p align="center">
